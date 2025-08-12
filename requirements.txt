@@ -1,0 +1,6 @@
+tensorflow
+mtcnn
+opencv-python
+matplotlib
+kagglehub
+scikit-learn
