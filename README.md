@@ -28,8 +28,9 @@ Sistema de recomendação de moda baseado em similaridade visual. Faça upload d
 
 ## 🚀 Instalação
 
-### 1. Clone o repositório
 ```bash
+1. Clone o repositório
+
 git clone <url-do-repositorio>
 cd fashion-recommendation-system
 
