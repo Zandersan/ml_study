@@ -139,10 +139,3 @@ Este projeto foi desenvolvido para:
 - Desenvolver habilidades em documentação técnica
 - Utilizar o GitHub para compartilhamento de material técnico
 
-## 👥 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-- Reportar issues
-- Sugerir novas vulneribilidades para simular
-
-- Melhorar a documentação
