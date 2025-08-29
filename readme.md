@@ -12,7 +12,7 @@ Este projeto é uma automação simples para geração de testes unitários util
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Zandersan/ml_study.git
 cd gerador-testes-unitarios
 ```
 
@@ -89,4 +89,5 @@ python -m unittest testes_gerados.py
 - ✅ Automatiza a criação de testes unitários
 - ✅ Mantém a consistência dos testes
 - ✅ Economiza tempo no desenvolvimento
+
 - ✅ Integra-se com o ecossistema Azure OpenAI
