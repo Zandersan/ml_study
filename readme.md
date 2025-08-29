@@ -13,7 +13,7 @@ O código cria um ambiente controlado com três tipos de vulnerabilidades simula
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/Zandersan/ml_study.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -144,4 +144,5 @@ Este projeto foi desenvolvido para:
 Contribuições são bem-vindas! Sinta-se à vontade para:
 - Reportar issues
 - Sugerir novas vulneribilidades para simular
+
 - Melhorar a documentação
