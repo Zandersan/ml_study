@@ -1,0 +1,8 @@
+SpeechRecognition==3.10.0
+gTTS==2.3.2
+playsound==1.2.2
+pywhatkit==5.4
+wikipedia==1.4.0
+requests==2.31.0
+geocoder==1.38.1
+pyaudio==0.2.11
